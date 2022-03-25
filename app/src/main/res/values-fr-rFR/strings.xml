@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaxPatisserie_v0</string>
+    <string name="empty">vide</string>
+    <string name="palmier">palmier</string>
+    <string name="recipe_pain_chocolat">PREPARATION DE LA PATE : \n \n250 g farine non blanchie ou type 55 \n20 g sucre en poudre \n5 g de sel fin \n6 g de levure boulangerie \n10 g de miel \n50 g de lait frais \n125 g d\'eau à 30 degrés \n25 g de beurre presque fondu \n125 g de beurre à 20 degrés pour tourage \n1 oeuf pour la dorure \n1 plaque de chocolat \n \nCUISSON : 180C (360F) pendant 17minutes</string>
+    <string name="recipe_croissant">PREPARATION DE LA PATE : \n \n250 g farine non blanchie ou type 55 \n20 g sucre en poudre \n5 g de sel fin \n6 g de levure boulangerie \n10 g de miel \n50 g de lait frais \n125 g d\'eau à 30 degrés \n25 g de beurre presque fondu \n125 g de beurre à 20 degrés pour tourage \n1 oeuf pour la dorure \n \nCUISSON : 180C (360F) pendant 17minutes</string>
+    <string name="recipe_palmier">PREPARATION PATE FEUILLETEE : \n \n400 g de farine tout usage non blanchie (ou type 55) \n300 g de beurre froid doux ou salé en petits dés \n200g ou ml d’eau froide \n8 g de sel \n \nPREPARATION DES PALMIERS : \n \n200 g de sucre. \nÉtaler la pâte feuilletée en utilisant que du sucre, \nfaire un tour portefeuille (4), \nallonger et rouler 2 fois la pate de chaque cote, \nfaire cuire 24 minutes à 425F ou 220 C, \nau bout de 12 minutes les retourner.</string>
+    <string name="recipes">Les Recettes</string>
+    <string name="welcome_text">Bonjour\n Pâtissiers et Pâtissières !</string>
+    <string name="work_in_progress_text">pour l\'instant clique sur les images :)</string>
+</resources>

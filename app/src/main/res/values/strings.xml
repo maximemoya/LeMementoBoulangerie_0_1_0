@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MaxPatisserie_v0</string>
+    <string name="empty">empty</string>
+    <string name="croissant" translatable="false">croissant</string>
+    <string name="pain_au_chocolat" translatable="false">pain au chocolat</string>
+    <string name="palmier">puff pastry palm</string>
+    <string name="video" translatable="false"><![CDATA[-> VIDEO <-]]></string>
+    <string name="recipe_pain_chocolat">
+        DOUGH RECIPE :
+        \n
+        \n250 g floor type 55
+        \n20 g sugar
+        \n5 g salt
+        \n6 g baker\'s yeast
+        \n10 g honey
+        \n50 g milk
+        \n125 g water temperature : 30C
+        \n25 g smelt butter
+        \n125 g butter temperature : 20C
+        \n1 egg
+        \n1 chocolate
+        \n
+        \nCOOKING : 180C (360F) during 17 minutes
+    </string>
+    <string name="recipe_croissant">
+        DOUGH RECIPE :
+        \n
+        \n250 g floor type 55
+        \n20 g sugar
+        \n5 g salt
+        \n6 g baker\'s yeast
+        \n10 g honey
+        \n50 g milk
+        \n125 g water temperature : 30C
+        \n25 g smelt butter
+        \n125 g butter temperature : 20C
+        \n1 egg
+        \n
+        \nCOOKING : 180C (360F) during 17minutes
+    </string>
+    <string name="recipe_palmier">
+        DOUGH RECIPE :
+        \n
+        \n400 g floor type 55
+        \n300 g butter in small pieces
+        \n200 ml temperate water
+        \n8 g salt
+        \n
+        \nPUFF PASTRY PALM RECIPE ::
+        \n
+        \n200 g sugar.
+        \nuse sugar instead of floor,
+        \nfold in 4,
+        \nfold in 3 x 3times,
+        \ncook 24 minutes at 425F or 220 C,
+        \nat 12 minutes flip them all.
+    </string>
+    <string name="recipes">Recipes</string>
+    <string name="welcome_text">Hi ;)\n Pastry Chef !</string>
+    <string name="work_in_progress_text">work in progress, click on pictures :)</string>
+</resources>
